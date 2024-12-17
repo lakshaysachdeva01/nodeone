@@ -889,8 +889,9 @@ background-color: white;
 }
 .post-thumb{
   position: relative;
-  height: 72%;
-  width: 92%;
+  height: 100px;
+  min-width:100px;
+  
   overflow: hidden;
   
 }
