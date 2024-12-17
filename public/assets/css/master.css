@@ -3532,7 +3532,16 @@ gap: 100px;
   }
   
 }
-
+@media (max-width: 500px) {
+  #product-container{
+  
+    
+    width: 300px;
+    justify-content: center;
+ 
+  }
+  
+}
 @media (max-width: 1140px) {
  
   #product-image{
